@@ -34,11 +34,3 @@ Performing Inference with a PEFT Model
 Evaluating the model
   Repeat the previous evaluation process, this time using the PEFT model. Compare the results to the results from the original foundation model.
 
-
-Directly from the Project Workspace (recommended)
-Uploading a zip file
-Sharing a GitHub repository link (must be a public link)
-Your submission must include:
-
-Your Jupyter notebook file (.ipynb )
-Your saved weights
